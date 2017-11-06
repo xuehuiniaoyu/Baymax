@@ -1,6 +1,6 @@
 # Baymax
 Android平台的Spring框架，利用Hook技术实现Android三大组件免清单注册即可使用。
-Controller概念的引入让整个框架变得好用了很多。
+Controller概念的引入让整个框架变得好用了很多。（暂停更新，以后维护Baymax-1.0）
 
 The Spring framework of Android platform, using Hook technology to implement the three Android components of Android, 
 can be used.The introduction of the Controller concept makes the whole framework much easier.
